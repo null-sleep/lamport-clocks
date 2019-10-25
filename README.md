@@ -1,2 +1,3 @@
 # lamport-clocks
-An implementation of logical clocks for fun
+A simulation of a logical-clock system in a distributed system.
+Based on [Leselie Lamport's paper] (http://lamport.azurewebsites.net/pubs/time-clocks.pdf)
